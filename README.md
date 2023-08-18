@@ -1,4 +1,4 @@
-<h1>Welcome! I'm Chris, an ambitious <a href="www.linkedin.com/in/christopherjrios">IT Professional</a>☺</h1>
+<h1>Welcome! I'm Chris, an ambitious <a href="www.linkedin.com/in/christopherjrios">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
