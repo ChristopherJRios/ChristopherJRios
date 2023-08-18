@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure (w/videos!)</b>
+- <b>Microsoft Azure (w/ videos!)</b>
   - [Inspecting Network Traffic in Azure](https://github.com/christopherjrios/azure-network-protocols)
   - [Installing & Configuring Active Directory in Azure](https://github.com/christopherjrios/install-ad)
   - [Understanding File Permissions in Azure](https://github.com/christopherjrios/file-permissions)
