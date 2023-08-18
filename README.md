@@ -6,7 +6,7 @@
 
 - <b>Microsoft Azure (w/ videos!)</b>
   - [Inspecting Network Traffic in Azure](https://github.com/christopherjrios/azure-network-protocols)
-  - [Installing & Configuring Active Directory in Azure](https://github.com/christopherjrios/install-ad)
+  - [Installing & Configuring Active Directory in Azure](https://github.com/christopherjrios/install-config-ad)
   - [Understanding File Permissions in Azure](https://github.com/christopherjrios/file-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/christopherjrios/osticket-prereqs)
