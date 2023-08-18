@@ -4,17 +4,19 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Inspecting Network Traffic in Azure](https://github.com/christopherjrios/azure-network-protocols)
+  - [Installing Active Directory in Azure](https://github.com/christopherjrios/install-ad)
+  - [Configuring Active Directory in Azure](https://github.com/christopherjrios/configure-ad)
+  - [Understanding DNS in Azure](https://github.com/christopherjrios/intuition-dns)
+  - [Understanding File Permissions in Azure](https://github.com/christopherjrios/file-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/christopherjrios/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/christopherjrios/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/christopherjrios/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/christopherjrios/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/christopherjrios/azure-network-protocols)
-
+  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/christopherjrios/ticket-lifecycle)
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/MrChrisRios 
