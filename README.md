@@ -1,14 +1,12 @@
-<h1>Hello World!😎</h1> 
+<h1>Hello World!Welcome to my Portfolio😎</h1> 
 
 <h2> I'm Chris, an <a href="www.linkedin.com/in/christopherjrios">IT Professional.</a> Let me show you some of my projects!⤵️ </h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure (w/videos!)</b>
   - [Inspecting Network Traffic in Azure](https://github.com/christopherjrios/azure-network-protocols)
-  - [Installing Active Directory in Azure](https://github.com/christopherjrios/install-ad)
-  - [Configuring Active Directory in Azure](https://github.com/christopherjrios/configure-ad)
-  - [Understanding DNS in Azure](https://github.com/christopherjrios/intuition-dns)
+  - [Installing & Configuring Active Directory in Azure](https://github.com/christopherjrios/install-ad)
   - [Understanding File Permissions in Azure](https://github.com/christopherjrios/file-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/christopherjrios/osticket-prereqs)
